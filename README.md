@@ -1,4 +1,4 @@
-# Gnomintosh_Sequoia
+# Gnomintosh-Sequoia
 
 A theme configuration to make your GNOME desktop look like macOS 15 Sequoia.
 
