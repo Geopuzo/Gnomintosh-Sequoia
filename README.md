@@ -22,3 +22,7 @@ then download the icons and theme below in "Credits"
 ## Credits
 * https://github.com/vinceliuice/whitesur-gtk-theme
 * https://github.com/vinceliuice/WhiteSur-icon-theme
+
+## Authors
+* Geoprostranstvenny
+* Tworence
