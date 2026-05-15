@@ -17,7 +17,7 @@ A theme configuration to make your GNOME desktop look like macOS 15 Sequoia.
 Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < extensions.dconf
 then download the wallpaper
 Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos
-then download the icons and theme below in "Credits"
+then download the icons and theme below in "Credits".
 
 ## Credits
 * https://github.com/vinceliuice/whitesur-gtk-theme
