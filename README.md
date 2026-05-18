@@ -14,7 +14,7 @@ A theme configuration to make your GNOME desktop look like macOS 15 Sequoia.
 <img width="1920" height="1080" alt="Screenshot From 2026-05-15 20-19-40" src="https://github.com/user-attachments/assets/eb2f7a16-f3ff-4443-a4e2-9244e92240ce" />
 
 ## How to install?
-Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < extensions.dconf
+Install the extension from the "Extension" folder, download it. Then download the config from the "dconf" folder. and place it in your home directory. Enter the command: dconf load /org/gnome/shell/extensions/ < Gnomintosh_extensions.dconf
 then download the wallpaper
 Then open the "logo menu" extension settings and download the logo of your choice from the "logo" folder and place it in the logos
 then download the icons and theme below in "Credits".
