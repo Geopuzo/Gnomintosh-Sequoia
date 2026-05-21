@@ -24,5 +24,5 @@ then download the icons and theme below in "Credits".
 * https://github.com/vinceliuice/WhiteSur-icon-theme
 
 ## Authors
-* **Geoprostranstvenny**
+* **Swift**
 * **Tworence**
